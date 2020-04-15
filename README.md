@@ -7,3 +7,9 @@ Traditionally, access to bank accounts has been regarded as an indicator of fina
 The research problem is to figure out how we can predict which individuals are most likely to have or use a bank account. Your solution will help provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
 
 We will work on some analysis and visualizations in order to display the state at which different countries stated above are involved in financial inclusion including having bank accounts.
+
+
+# Aim for the dataset
+In this dataset i worked on the univariate analysis,which is analyze the distribution of one feature in a  dataset.
+Bivariate analysis-analyze the distribution of two features in a dataset.
+Multivariate analysis-analyze the distribution of multiple features in a dataset.
